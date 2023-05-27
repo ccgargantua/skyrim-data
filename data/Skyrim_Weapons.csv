@@ -1,0 +1,307 @@
+name,category,damage,weight,value,speed,upgrade,perk,description,additional-effects,type,id
+
+Alessandra's Dagger,Dagger,5,1,10,N/A,N/A,None,N/A,N/A,One-Handed,00043E1E
+Blade of Sacrifice,Dagger,10,4,144,N/A,Ebony Ingot,None,N/A,N/A,One-Handed,00079B1D
+Blade of Woe,Dagger,12,7,880,N/A,None required,Steel,N/A,N/A,One-Handed,0009CCDC
+Bloodthorn,Dagger,8,2.5,183,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,000A4DCE
+Borvir's Dagger,Dagger,8,4,18,N/A,Refined Moonstone,Elven,N/A,N/A,One-Handed,000ECD54
+Daedric Dagger,Dagger,11,6,500,N/A,Ebony Ingot,Daedric,N/A,N/A,One-Handed,000139B6
+Dragon Priest Dagger,Dagger,6,5,9,N/A,N/A,None,N/A,N/A,One-Handed,0001C1FE
+Dragonbone Dagger DG,Dagger,12,6.5,600,N/A,Dragon Bone,Dragon,N/A,N/A,One-Handed,xx014fcb
+Dwarven Dagger,Dagger,7,3.5,55,N/A,Dwarven Metal Ingot,Dwarven,N/A,N/A,One-Handed,00013996
+Ebony Dagger,Dagger,10,5,290,N/A,Ebony Ingot,Ebony,N/A,N/A,One-Handed,000139AE
+Elven Dagger,Dagger,8,4,95,N/A,Refined Moonstone,Elven,N/A,N/A,One-Handed,0001399E
+Glass Dagger,Dagger,9,4.5,165,N/A,Refined Malachite,Glass,N/A,N/A,One-Handed,000139A6
+Iron Dagger,Dagger,4,2,10,N/A,Iron Ingot,None,N/A,N/A,One-Handed,0001397E
+Kahvozein's Fang,Dagger,6,5,9,N/A,N/A,None,N/A,N/A,One-Handed,000D0758
+Keening,Dagger,8,4,5,N/A,N/A,None,N/A,N/A,One-Handed,0006A13C
+Mehrunes' Razor,Dagger,11,3,860,N/A,Ebony Ingot,None,N/A,N/A,One-Handed,000240D2
+Nettlebane,Dagger,6,10,5,N/A,Ebony Ingot,None,N/A,N/A,One-Handed,0001C492
+Nordic Dagger DR,Dagger,8,3.5,115,N/A,Quicksilver Ingot,Advanced,N/A,N/A,One-Handed,xx01cdae
+Orcish Dagger,Dagger,6,3,30,N/A,Orichalcum Ingot,Orcish,N/A,N/A,One-Handed,0001398E
+Rundi's Dagger,Dagger,5,2.5,18,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,000ECD53
+Shiv,Dagger,5,2,5,N/A,N/A,None,N/A,N/A,One-Handed,000426C8
+Skyforge Steel Dagger,Dagger,8,2.5,25,N/A,N/A,None,N/A,N/A,One-Handed,0009F25D
+Stalhrim Dagger DR,Dagger,10,4.5,395,N/A,Stalhrim,Ebony,N/A,N/A,One-Handed,xx01cdb5
+Steel Dagger,Dagger,5,2.5,18,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,00013986
+Valdr's Lucky Dagger,Dagger,5,2.5,15,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,000B994E
+
+Daedric Mace,Mace,16,20,1750,N/A,Ebony Ingot,Daedric,N/A,N/A,One-Handed,000139B8
+Dragonbone Mace DG,Mace,17,22,2000,N/A,Dragon Bone,Dragon,N/A,N/A,One-Handed,xx014fcd
+Dwarven Mace,Mace,12,16,190,N/A,Dwarven Metal Ingot,Dwarven,N/A,N/A,One-Handed,00013998
+Ebony Mace,Mace,16,19,1000,N/A,Ebony Ingot,Ebony,N/A,N/A,One-Handed,000139B0
+Elven Mace,Mace,13,17,330,N/A,Refined Moonstone,Elven,N/A,N/A,One-Handed,000139A0
+Glass Mace,Mace,14,18,575,N/A,Refined Malachite,Glass,N/A,N/A,One-Handed,000139A8
+Horksbane DR,Mace,10,14,250,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,xx026490
+Iron Mace,Mace,9,13,35,N/A,Iron Ingot,None,N/A,N/A,One-Handed,00013982
+Lunar Iron Mace,Mace,9,13,99,N/A,Iron Ingot,None,N/A,N/A,One-Handed,N/A
+Lunar Iron Mace,Mace,9,13,133,N/A,Iron Ingot,None,N/A,N/A,One-Handed,N/A
+Lunar Iron Mace,Mace,9,13,168,N/A,Iron Ingot,None,N/A,N/A,One-Handed,0003B0C1
+Lunar Steel Mace,Mace,10,14,129,N/A,Iron Ingot,None,N/A,N/A,One-Handed,N/A
+Lunar Steel Mace,Mace,10,14,163,N/A,Iron Ingot,None,N/A,N/A,One-Handed,N/A
+Lunar Steel Mace,Mace,10,14,198,N/A,Iron Ingot,None,N/A,N/A,One-Handed,0003B0BC
+Mace of Molag Bal,Mace,16,18,1257,N/A,Ebony Ingot,None,N/A,N/A,One-Handed,000233E3
+Nordic Mace DR,Mace,13,16,410,N/A,Quicksilver Ingot,Advanced,N/A,N/A,One-Handed,xx01cdb0
+Orcish Mace,Mace,11,15,105,N/A,Orichalcum Ingot,Orcish,N/A,N/A,One-Handed,00013990
+Prelate's Mace DG,Mace,13,7,330,N/A,Refined Moonstone,Elven,N/A,N/A,One-Handed,xx01681e
+Rusty Mace,Mace,7,13,5,N/A,N/A,N/A,N/A,N/A,One-Handed,00022F0F
+Stalhrim Mace DR,Mace,16,18,1375,N/A,Stalhrim,Ebony,N/A,N/A,One-Handed,xx01cdb7
+Steel Mace,Mace,10,14,65,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,00013988
+
+Akaviri Sword DG,Sword,11,10,300,N/A,N/A,N/A,N/A,N/A,One-Handed,xx014555
+Amren's Family Sword,Sword,7,9,25,N/A,Iron Ingot,None,N/A,N/A,One-Handed,000647AC
+Ancient Nord Sword,Sword,8,12,13,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,0002C66F
+Blades Sword,Sword,11,10,300,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,0003AEB9
+Bloodscythe DR,Sword,13,10,1859,N/A,Ebony Ingot,Daedric,N/A,N/A,One-Handed,xx018ddd
+Bolar's Oathblade,Sword,11,10,1014,N/A,Quicksilver Ingot,Steel,N/A,N/A,One-Handed,000C1989
+Ceremonial Sword,Sword,8,12,5,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,0008ADFC
+Chillrend,Sword,10,11,552,N/A,Refined Malachite,Glass,N/A,N/A,One-Handed,N/A
+Chillrend,Sword,11,12,635,N/A,Refined Malachite,Glass,N/A,N/A,One-Handed,N/A
+Chillrend,Sword,12,13,872,N/A,Refined Malachite,Glass,N/A,N/A,One-Handed,N/A
+Chillrend,Sword,13,14,846,N/A,Refined Malachite,Glass,N/A,N/A,One-Handed,N/A
+Chillrend,Sword,14,15,1111,N/A,Refined Malachite,Glass,N/A,N/A,One-Handed,N/A
+Chillrend,Sword,15,16,1442,N/A,Refined Malachite,Glass,N/A,N/A,One-Handed,000F8318
+Daedric Sword,Sword,14,16,1250,N/A,Ebony Ingot,Daedric,N/A,N/A,One-Handed,000139B9
+Dawnbreaker,Sword,12,10,740,N/A,Ebony Ingot,None,N/A,N/A,One-Handed,0004E4EE
+Dragonbane,Sword,10,10,789,N/A,Quicksilver Ingot,Steel,N/A,N/A,One-Handed,N/A
+Dragonbane,Sword,11,11,1046,N/A,Quicksilver Ingot,Steel,N/A,N/A,One-Handed,N/A
+Dragonbane,Sword,12,12,1189,N/A,Quicksilver Ingot,Steel,N/A,N/A,One-Handed,N/A
+Dragonbane,Sword,13,13,1860,N/A,Quicksilver Ingot,Steel,N/A,N/A,One-Handed,N/A
+Dragonbane,Sword,14,14,2596,N/A,Quicksilver Ingot,Steel,N/A,N/A,One-Handed,000F71D0
+Dragonbone Sword DG,Sword,15,19,1500,N/A,Dragon Bone,Dragon,N/A,N/A,One-Handed,xx014fce
+Drainheart Sword,Sword,11,3,73,N/A,N/A,N/A,N/A,N/A,One-Handed,000F71DD
+Dwarven Sword,Sword,10,12,135,N/A,Dwarven Metal Ingot,Dwarven,N/A,N/A,One-Handed,00013999
+Ebony Sword,Sword,13,15,720,N/A,Ebony Ingot,Ebony,N/A,N/A,One-Handed,000139B1
+Eduj,Sword,11,9,300,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,0008FFDF
+Elven Sword,Sword,11,13,235,N/A,Refined Moonstone,Elven,N/A,N/A,One-Handed,000139A1
+Falmer Sword,Sword,10,18,67,N/A,Chaurus Chitin,None,N/A,N/A,One-Handed,0002E6D1
+Forsworn Sword,Sword,10,13,70,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,000CADE9
+Gauldur Blackblade,Sword,8,12,234,N/A,Steel Ingot,Dwarven,N/A,N/A,One-Handed,N/A
+Gauldur Blackblade,Sword,8,12,465,N/A,Steel Ingot,Dwarven,N/A,N/A,One-Handed,N/A
+Gauldur Blackblade,Sword,11,15,669,N/A,Steel Ingot,Dwarven,N/A,N/A,One-Handed,N/A
+Gauldur Blackblade,Sword,11,15,975,N/A,Steel Ingot,Dwarven,N/A,N/A,One-Handed,N/A
+Gauldur Blackblade,Sword,11,15,1286,N/A,Steel Ingot,Dwarven,N/A,N/A,One-Handed,000F5D1D
+Ghostblade,Sword,8,1,300,N/A,3 Ectoplasm,None,N/A,N/A,One-Handed,00094A2B
+Glass Sword,Sword,12,14,410,N/A,Refined Malachite,Glass,N/A,N/A,One-Handed,000139A9
+Grimsever,Sword,12,14,727,N/A,Refined Malachite,Glass,N/A,N/A,One-Handed,00053379
+Harkon's Sword DG,Sword,8,9,1472,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,020067CF
+Herebane's Courage,Sword,11,13,639,N/A,Refined Moonstone,Elven,N/A,N/A,One-Handed,000F9648
+Hjalti's Sword,Sword,8,12,13,N/A,N/A,N/A,N/A,N/A,One-Handed,00068976
+Honed Ancient Nord Sword,Sword,11,15,23,N/A,Steel Ingot,Dwarven,N/A,N/A,One-Handed,0005BF14
+Honed Falmer Sword,Sword,12,18,205,N/A,N/A,N/A,N/A,N/A,One-Handed,0006F6FF
+Imperial Sword,Sword,8,10,23,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,000135B8
+Iron Sword,Sword,7,9,25,N/A,Iron Ingot,None,N/A,N/A,One-Handed,00012EB7
+Lunar Iron Sword,Sword,7,9,89,N/A,Iron Ingot,None,N/A,N/A,One-Handed,N/A
+Lunar Iron Sword,Sword,7,9,123,N/A,Iron Ingot,None,N/A,N/A,One-Handed,N/A
+Lunar Iron Sword,Sword,7,9,158,N/A,Iron Ingot,None,N/A,N/A,One-Handed,0003B0C4
+Lunar Steel Sword,Sword,8,10,69,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,N/A
+Lunar Steel Sword,Sword,8,10,103,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,N/A
+Lunar Steel Sword,Sword,8,10,138,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,0003B0BD
+Miraak's Sword DR,Sword,16,3,427,N/A,Daedra HeartEbony Ingot,Dwarven,N/A,N/A,One-Handed,xx039fb4
+Nightingale Blade,Sword,10,11,426,N/A,Ebony Ingot,None,N/A,N/A,One-Handed,N/A
+Nightingale Blade,Sword,11,12,851,N/A,Ebony Ingot,None,N/A,N/A,One-Handed,N/A
+Nightingale Blade,Sword,12,13,1424,N/A,Ebony Ingot,None,N/A,N/A,One-Handed,N/A
+Nightingale Blade,Sword,13,14,2248,N/A,Ebony Ingot,None,N/A,N/A,One-Handed,N/A
+Nightingale Blade,Sword,14,15,1665,N/A,Ebony Ingot,None,N/A,N/A,One-Handed,000F6527
+Nord Hero Sword,Sword,11,9,135,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,00068C7B
+Nordic Sword DR,Sword,11,12,290,N/A,Quicksilver Ingot,Advanced,N/A,N/A,One-Handed,xx01cdb1
+Orcish Sword,Sword,9,11,75,N/A,Orichalcum Ingot,Orcish,N/A,N/A,One-Handed,00013991
+Phantom Sword,Sword,1,0,0,N/A,N/A,N/A,N/A,N/A,One-Handed,000771B9
+Queen Freydis's Sword,Sword,8,10,45,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,000AB85D
+Red Eagle's Bane,Sword,11,15,100,N/A,Steel Ingot,Dwarven,N/A,N/A,One-Handed,000AB703
+Red Eagle's Fury,Sword,8,12,97,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,0009FD50
+Scimitar,Sword,11,10,5,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,0007A91A
+Silver Sword,Sword,8,7,100,N/A,N/A,N/A,N/A,N/A,One-Handed,0010AA19
+Skyforge Steel Sword,Sword,11,10,70,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,0009F25C
+Stalhrim Sword DR,Sword,13,14,985,N/A,Stalhrim,Ebony,N/A,N/A,One-Handed,xx01cdb8
+Steel Sword,Sword,8,10,45,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,000557F5
+Soulrender DR,Sword,13,10,1000,N/A,Ebony Ingot,Daedric,N/A,N/A,One-Handed,xx036689
+The Pale Blade,Sword,8,12,169,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,N/A
+The Pale Blade,Sword,8,12,286,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,N/A
+The Pale Blade,Sword,11,15,452,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,N/A
+The Pale Blade,Sword,11,15,667,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,N/A
+The Pale Blade,Sword,11,15,914,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,000F5D2D
+Vilkas's Sword,Sword,11,10,70,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,0009F25C
+Windshear,Sword,11,10,40,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,0006EA8B
+Wooden Sword HF,Sword,2,3,25,N/A,Firewood,None,N/A,N/A,One-Handed,xx004d91
+
+Ancient Nord War Axe,War-axe,9,14,15,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,0002C672
+Ancient Nordic Pickaxe DR,War-axe,5,10,500,N/A,N/A,N/A,N/A,N/A,One-Handed,xx0398e6
+Balgruuf's War Axe,War-axe,9,12,55,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,00013983
+Ceremonial Axe,War-axe,9,14,5,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,0008ABFD
+Daedric War Axe,War-axe,15,18,1500,N/A,Ebony Ingot,Daedric,N/A,N/A,One-Handed,000139B3
+Dawnguard Rune Axe DG,War-axe,11,13,175,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,xx01668c
+Dawnguard War Axe DG,War-axe,11,13,55,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,xx00d098
+Dragonbone War Axe DG,War-axe,16,21,1700,N/A,Dragon Bone,Dragon,N/A,N/A,One-Handed,02014FCF
+Dwarven War Axe,War-axe,11,14,165,N/A,Dwarven Metal Ingot,Dwarven,N/A,N/A,One-Handed,00013993
+Ebony War Axe,War-axe,15,17,865,N/A,Ebony Ingot,Ebony,N/A,N/A,One-Handed,000139AB
+Elven War Axe,War-axe,12,15,280,N/A,Refined Moonstone,Elven,N/A,N/A,One-Handed,0001399B
+Falmer War Axe,War-axe,11,21,82,N/A,Chaurus Chitin,N/A,N/A,N/A,One-Handed,000302CD
+Forsworn Axe,War-axe,11,15,90,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,000CC829
+Ghorbash's Ancestral Axe,War-axe,8,11,30,N/A,Iron Ingot,N/A,N/A,N/A,One-Handed,0006A8FD
+Glass War Axe,War-axe,14,16,490,N/A,Refined Malachite,Glass,N/A,N/A,One-Handed,000139A3
+Hoarfrost DR,War-axe,5,10,946,N/A,N/A,N/A,N/A,N/A,One-Handed,xx0179c9
+Honed Draugr War Axe,War-axe,11,16,27,N/A,Steel Ingot,Dwarven,N/A,N/A,One-Handed,0005BF15
+Honed Falmer War Axe,War-axe,13,21,245,N/A,N/A,N/A,N/A,N/A,One-Handed,0006F700
+Illusory War Axe,War-axe,1,14,15,N/A,N/A,N/A,N/A,N/A,One-Handed,000E7A31
+Iron War Axe,War-axe,8,11,30,N/A,Iron Ingot,N/A,N/A,N/A,One-Handed,00013790
+Lunar Iron War Axe,War-axe,8,11,94,N/A,Iron Ingot,N/A,N/A,N/A,One-Handed,N/A
+Lunar Iron War Axe,War-axe,8,11,128,N/A,Iron Ingot,N/A,N/A,N/A,One-Handed,N/A
+Lunar Iron War Axe,War-axe,8,11,163,N/A,Iron Ingot,N/A,N/A,N/A,One-Handed,0003B0C7
+Lunar Steel War Axe,War-axe,9,12,119,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,N/A
+Lunar Steel War Axe,War-axe,9,12,153,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,N/A
+Lunar Steel War Axe,War-axe,9,12,188,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,0003B0BE
+Nord Hero War Axe,War-axe,12,11,165,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,00068C63
+Nordic War Axe DR,War-axe,12,14,350,N/A,Quicksilver Ingot,Advanced,N/A,N/A,One-Handed,xx01cdb2
+Notched Pickaxe,War-axe,5,10,303,N/A,Iron Ingot,N/A,N/A,N/A,One-Handed,001019D4
+Okin,War-axe,12,11,320,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,0008FFDE
+Orcish War Axe,War-axe,10,13,90,N/A,Orichalcum Ingot,Orcish,N/A,N/A,One-Handed,0001398B
+Pickaxe,War-axe,5,10,5,N/A,N/A,N/A,N/A,N/A,One-Handed,000E3C16
+Poacher's Axe,War-axe,5,10,32,N/A,Steel Ingot,N/A,N/A,N/A,One-Handed,000AE086
+Skyforge Steel War Axe,War-axe,12,12,80,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,0009F260
+Stalhrim War Axe DR,War-axe,15,16,1180,N/A,Stalhrim,Ebony,N/A,N/A,One-Handed,xx01cdb9
+Steel War Axe,War-axe,9,12,55,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,00013983
+Ulfric's War Axe,War-axe,9,12,55,N/A,Steel Ingot,Steel,N/A,N/A,One-Handed,00013983
+Woodcutter's Axe,War-axe,5,10,5,N/A,N/A,N/A,N/A,N/A,One-Handed,0002F2F4
+
+Fork,Other,1,0.5,5,N/A,N/A,N/A,N/A,N/A,One-Handed,0001F25B
+Knife,Other,2,0.5,1,N/A,N/A,N/A,N/A,N/A,One-Handed,0001F25A
+
+Ancient Nord Battle Axe,Battleaxe,18,22,28,N/A,Steel Ingot,Steel,N/A,N/A,Two-Handed,0001CB64
+Daedric Battleaxe,Battleaxe,25,27,2750,N/A,Ebony Ingot,Daedric,N/A,N/A,Two-Handed,000139B4
+Dragonbone Battleaxe DG,Battleaxe,26,30,3000,N/A,Dragon Bone,Dragon,N/A,N/A,Two-Handed,02014FC3
+Drainblood Battleaxe,Battleaxe,21,5,266,N/A,N/A,N/A,N/A,N/A,Two-Handed,000F82FA
+Dwarven Battleaxe,Battleaxe,20,23,300,N/A,Dwarven Metal Ingot,Dwarven,N/A,N/A,Two-Handed,00013994
+Ebony Battleaxe,Battleaxe,23,26,1585,N/A,Ebony Ingot,Ebony,N/A,N/A,Two-Handed,000139AC
+Elven Battleaxe,Battleaxe,21,24,520,N/A,Refined Moonstone,Elven,N/A,N/A,Two-Handed,0001399C
+Glass Battleaxe,Battleaxe,22,25,900,N/A,Refined Malachite,Glass,N/A,N/A,Two-Handed,000139A4
+Headsman's Axe,Battleaxe,17,11,15,N/A,N/A,N/A,N/A,N/A,Two-Handed,000BE25E
+Honed Ancient Nord Battle Axe,Battleaxe,21,25,50,N/A,Steel Ingot,Dwarven,N/A,N/A,Two-Handed,0005BF12
+Iron Battleaxe,Battleaxe,16,20,55,N/A,Iron Ingot,None,N/A,N/A,Two-Handed,00013980
+Nord Hero Battle Axe,Battleaxe,21,20,300,N/A,Steel Ingot,Steel,N/A,N/A,Two-Handed,00068C79
+Nordic Battleaxe DR,Battleaxe,21,23,650,N/A,Quicksilver Ingot,Advanced,N/A,N/A,Two-Handed,xx01cdad
+Orcish Battleaxe,Battleaxe,19,25,165,N/A,Orichalcum Ingot,Orcish,N/A,N/A,Two-Handed,0001398C
+Skyforge Steel Battleaxe,Battleaxe,21,21,150,N/A,Steel Ingot,Steel,N/A,N/A,Two-Handed,0009F25F
+Stalhrim Battleaxe DR,Battleaxe,24,25,2150,N/A,Stalhrim,Ebony,N/A,N/A,Two-Handed,xx01cdb8
+Steel Battleaxe of Fiery Souls,Battleaxe,18,21,320,N/A,Steel Ingot,Steel,N/A,N/A,Two-Handed,00040002
+Steel Battleaxe,Battleaxe,18,21,100,N/A,Steel Ingot,Steel,N/A,N/A,Two-Handed,00013984
+Rueful Axe,Battleaxe,22,10,1183,N/A,Ebony Ingot,None,N/A,N/A,Two-Handed,0001C4E6
+The Woodsman's Friend,Battleaxe,17,20,28,N/A,N/A,N/A,N/A,N/A,Two-Handed,00022265
+Tsun's Battleaxe,Battleaxe,27,36,1000,N/A,N/A,N/A,N/A,N/A,Two-Handed,0005BF18
+Wuuthrad,Battleaxe,25,25,2000,N/A,N/A,N/A,N/A,N/A,Two-Handed,000956B5
+
+Ancient Nord Greatsword,Greatsword,17,18,35,N/A,Steel Ingot,Steel,N/A,N/A,Two-Handed,000236A5
+Balgruuf's Greatsword,Greatsword,17,17,200,N/A,Steel Ingot,Steel,N/A,N/A,Two-Handed,000946FC
+Bloodskal Blade DR,Greatsword,21,16,500,N/A,Silver Ingot,N/A,N/A,N/A,Two-Handed,xx01a578
+Daedric Greatsword,Greatsword,24,23,2500,N/A,Ebony Ingot,Daedric,N/A,N/A,Two-Handed,000139B7
+Dragonbone Greatsword DG,Greatsword,25,27,2725,N/A,Dragon Bone,Dragon,N/A,N/A,Two-Handed,02014FCC
+Dwarven Greatsword,Greatsword,19,19,270,N/A,Dwarven Metal Ingot,Dwarven,N/A,N/A,Two-Handed,00013997
+Ebony Greatsword,Greatsword,22,22,1440,N/A,Ebony Ingot,Ebony,N/A,N/A,Two-Handed,000139AF
+Ebony Blade,Greatsword,11,10,2000,N/A,N/A,N/A,N/A,N/A,Two-Handed,000EA29C
+Elven Greatsword,Greatsword,20,20,470,N/A,Refined Moonstone,Elven,N/A,N/A,Two-Handed,0001399F
+Glass Greatsword,Greatsword,21,22,820,N/A,Refined Malachite,Glass,N/A,N/A,Two-Handed,000139A7
+Honed Ancient Nord Greatsword,Greatsword,20,21,63,N/A,Steel Ingot,Dwarven,N/A,N/A,Two-Handed,0005BF13
+Iron Greatsword,Greatsword,15,16,50,N/A,Iron Ingot,None,N/A,N/A,Two-Handed,0001359D
+Nord Hero Greatsword,Greatsword,20,16,250,N/A,Steel Ingot,Steel,N/A,N/A,Two-Handed,000A3115
+Nordic Greatsword DR,Greatsword,20,19,585,N/A,Quicksilver Ingot,Advanced,N/A,N/A,Two-Handed,xx01cdaf
+Orcish Greatsword,Greatsword,18,18,75,N/A,Orichalcum Ingot,Orcish,N/A,N/A,Two-Handed,0001398F
+Silver Greatsword,Greatsword,17,12,160,N/A,N/A,N/A,N/A,N/A,Two-Handed,0010C6FB
+Skyforge Steel Greatsword,Greatsword,20,17,140,N/A,Steel Ingot,Steel,N/A,N/A,Two-Handed,0009F25E
+Stalhrim Greatsword DR,Greatsword,23,21,1970,N/A,Stalhrim,Ebony,N/A,N/A,Two-Handed,xx01cdb6
+Steel Greatsword,Greatsword,17,17,90,N/A,Steel Ingot,Steel,N/A,N/A,Two-Handed,00013987
+Stormfang DR,Greatsword,17,17,1175,N/A,Steel Ingot,Steel,N/A,N/A,Two-Handed,xx026b0b
+
+Aegisbane,Warhammer,18,24,180,N/A,Iron Ingot,None,N/A,N/A,Two-Handed,000D2AFE
+Champion's Cudgel DR,Warhammer,24,27,1767,N/A,N/A,N/A,N/A,N/A,Two-Handed,xx01a578
+Daedric Warhammer,Warhammer,27,31,4000,N/A,Ebony Ingot,Daedric,N/A,N/A,Two-Handed,000139BA
+Dawnguard Warhammer DG,Warhammer,22,26,110,N/A,Steel Ingot,Steel,N/A,N/A,Two-Handed,000139BA
+Dawnguard Rune Hammer DG,Warhammer,22,26,500,N/A,Steel Ingot,Steel,N/A,N/A,Two-Handed,000139BA
+Dragonbone Warhammer DG,Warhammer,28,33,4275,N/A,Dragon Bone,Dragon,N/A,N/A,Two-Handed,xx014fd0
+Dwarven Warhammer,Warhammer,22,27,325,N/A,Dwarven Metal Ingot,Dwarven,N/A,N/A,Two-Handed,0001399A
+Ebony Warhammer,Warhammer,25,30,1725,N/A,Ebony Ingot,Ebony,N/A,N/A,Two-Handed,000139B2
+Elven Warhammer,Warhammer,23,28,565,N/A,Refined Moonstone,Elven,N/A,N/A,Two-Handed,000139A2
+Glass Warhammer,Warhammer,24,29,985,N/A,Refined Malachite,Glass,N/A,N/A,Two-Handed,000139AA
+Iron Warhammer,Warhammer,18,24,60,N/A,Iron Ingot,None,N/A,N/A,Two-Handed,00013981
+Nordic Warhammer DR,Warhammer,23,27,700,N/A,Quicksilver Ingot,Advanced,N/A,N/A,Two-Handed,xx01cdb3
+Orcish Warhammer,Warhammer,21,26,180,N/A,Orichalcum Ingot,Orcish,N/A,N/A,Two-Handed,00013992
+Shagrol's Warhammer,Warhammer,21,26,200,N/A,Orichalcum Ingot,Orcish,N/A,N/A,Two-Handed,000223FB
+Stalhrim Warhammer DR,Warhammer,26,29,2850,N/A,Stalhrim,Ebony,N/A,N/A,Two-Handed,xx01cdba
+Steel Warhammer,Warhammer,20,25,110,N/A,Steel Ingot,Steel,N/A,N/A,Two-Handed,0001398A
+The Longhammer,Warhammer,21,18,90,N/A,Orichalcum Ingot,Orcish,N/A,N/A,Two-Handed,000AE085
+Trollsbane,Warhammer,20,25,121,N/A,Steel Ingot,Steel,N/A,N/A,Two-Handed,0006AF63
+Volendrung,Warhammer,25,26,1843,N/A,Ebony Ingot,None,N/A,N/A,Two-Handed,0002ACD2
+
+Ancient Nord Bow,Bow,8,12,45,0.875,Steel Ingot,Steel,N/A,N/A,Archery,000302CA
+Angi's Bow,Bow,7,7,50,0.937,Steel Ingot,Steel,N/A,N/A,Archery,000CC392
+Auriel's Bow DG,Bow,13,11,1000,1.0,Refined Moonstone,Elven,N/A,N/A,Archery,xx000800
+Bow of the Hunt,Bow,10,7,434,0.937,Steel Ingot,Steel,N/A,N/A,Archery,000AB705
+Daedric Bow,Bow,19,18,2500,0.50,Ebony Ingot,Daedric,N/A,N/A,Archery,000139B5
+Dragonbone Bow DG,Bow,20,20,2725,0.75,Dragon Bone,Dragon,N/A,N/A,Archery,xx0176f1
+Drainspell Bow,Bow,14,6,458,0.875,N/A,None,N/A,N/A,Archery,000F82FC
+Dravin's Bow,Bow,7,7,50,0.937,Leather Strips,Steel,N/A,N/A,Archery,0006B9AD
+Dwarven Bow,Bow,12,10,270,0.750,Dwarven Metal Ingot,Dwarven,N/A,N/A,Archery,00013995
+Dwarven Black Bow of Fate DR,Bow,13,10,1446,0.750,Ebony Ingot,Dwarven,N/A,N/A,Archery,xx02c01a
+Ebony Bow,Bow,17,16,1440,0.562,Ebony Ingot,Ebony,N/A,N/A,Archery,000139AD
+Elven Bow,Bow,13,12,470,0.687,Refined Moonstone,Elven,N/A,N/A,Archery,0001399D
+Falmer Bow,Bow,12,15,135,0.75,Chaurus Chitin,None,N/A,N/A,Archery,00038340
+Falmer Supple Bow,Bow,15,20,410,0.75,N/A,None,N/A,N/A,Archery,00083167
+Firiniel's End,Bow,13,12,785,0.687,Refined Moonstone,Elven,N/A,N/A,Archery,00017059
+Forsworn Bow,Bow,12,11,145,0.875,Steel Ingot,Steel,N/A,N/A,Archery,000CEE9B
+Froki's Bow,Bow,6,5,307,1.0,Iron Ingot,None,N/A,N/A,Archery,000C0186
+Gauldur Blackbow,Bow,8,12,253,0.875,Steel Ingot,Dwarven,N/A,N/A,Archery,N/A
+Gauldur Blackbow,Bow,8,12,407,0.875,Steel Ingot,Dwarven,N/A,N/A,Archery,N/A
+Gauldur Blackbow,Bow,14,18,530,0.875,Steel Ingot,Dwarven,N/A,N/A,Archery,N/A
+Gauldur Blackbow,Bow,14,18,750,0.875,Steel Ingot,Dwarven,N/A,N/A,Archery,N/A
+Gauldur Blackbow,Bow,14,18,972,0.875,Steel Ingot,Dwarven,N/A,N/A,Archery,000F5D22
+Glass Bow,Bow,15,14,820,0.625,Refined Malachite,Glass,N/A,N/A,Archery,000139A5
+Glass Bow of the Stag Prince DR,Bow,16,14,375,0.625,Refined Malachite,Glass,N/A,N/A,Archery,xx018ed5
+Hunting Bow,Bow,7,7,50,0.937,Leather Strips,Steel,N/A,N/A,Archery,0010E2DD
+Imperial Bow,Bow,9,8,90,0.75,Steel Ingot,None,N/A,N/A,Archery,00013841
+Karliah's Bow,Bow,25,9,5,0.625,N/A,None,N/A,N/A,Archery,000DEED8
+Long Bow,Bow,6,5,30,1.0,Firewood,None,N/A,N/A,Archery,0003B562
+Nord Hero Bow,Bow,11,7,200,0.875,Steel Ingot,None,N/A,N/A,Archery,00068C57
+Nordic Bow DR,Bow,13,11,580,0.6875,Quicksilver Ingot,Advanced,N/A,N/A,Archery,xx026232
+Orcish Bow,Bow,10,9,150,0.812,Orichalcum Ingot,Orcish,N/A,N/A,Archery,0001398D
+Stalhrim Bow DR,Bow,17,15,1800,0.5625,Stalhrim,Ebony,N/A,N/A,Archery,xx026231
+Supple Ancient Nord Bow,Bow,14,18,235,0.875,N/A,None,N/A,N/A,Archery,0005D179
+Nightingale Bow,Bow,12,9,493,0.50,Ebony Ingot,None,N/A,N/A,Archery,N/A
+Nightingale Bow,Bow,13,11,838,0.50,Ebony Ingot,None,N/A,N/A,Archery,N/A
+Nightingale Bow,Bow,15,13,1409,0.50,Ebony Ingot,None,N/A,N/A,Archery,N/A
+Nightingale Bow,Bow,17,15,2240,0.50,Ebony Ingot,None,N/A,N/A,Archery,N/A
+Nightingale Bow,Bow,19,18,3405,0.50,Ebony Ingot,None,N/A,N/A,Archery,000F652C
+Zephyr DG,Bow,12,10,670,1.0,Dwarven Metal Ingot,Dwarven,N/A,N/A,Archery,xx00cfb6
+
+Ancient Nord Arrow,Arrow,10,1,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Bloodcursed Elven Arrow DG,Arrow,16,6,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Daedric Arrow,Arrow,24,8,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Dragonbone Arrow DG,Arrow,25,9,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Dwarven Arrow,Arrow,14,4,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Dwarven Sphere Centurion Arrow,Arrow,20,0,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Ebony Arrow,Arrow,20,7,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Elven Arrow,Arrow,16,5,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Falmer Arrow,Arrow,7,1,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Forsworn Arrow,Arrow,7,1,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Glass Arrow,Arrow,18,6,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Iron Arrow,Arrow,8,1,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Nordic Arrow DR,Arrow,14,4,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Orcish Arrow,Arrow,12,3,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Practice Arrow,Arrow,0,0,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Riekling Spear DR,Arrow,10,2,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Rusty Arrow,Arrow,4,0,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Stalhrim Arrow DR,Arrow,20,7,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Steel Arrow,Arrow,10,2,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+Sunhallowed Elven Arrow DG,Arrow,16,16,N/A,N/A,N/A,N/A,N/A,N/A,Archery,N/A
+
+Crossbow,Crossbow,19,14,120,N/A,Steel Ingot,N/A,N/A,N/A,Archery,xx000801
+Dwarven Crossbow,Crossbow,22,20,350,N/A,Dwarven metal ingot,N/A,N/A,N/A,Archery,xx00b647
+Enhanced Crossbow,Crossbow,19,15,200,N/A,Steel Ingot,N/A,N/A,Attacks ignore 50% of armor.,Archery,xx00f19e
+Enhanced Dwarven Crossbow,Crossbow,22,21,550,N/A,Dwarven metal ingot,N/A,N/A,Attacks ignore 50% of armor.,Archery,xx00f19f
+
+Steel Bolt,Bolt,10,0,1,N/A,N/A,N/A,N/A,N/A,Archery,xx000bb3
+Dwarven Bolt,Bolt,14,0,3,N/A,N/A,N/A,N/A,N/A,Archery,xx00d099
+Exploding Steel Bolt of Fire,Bolt,10,0,5,N/A,N/A,N/A,Explodes for 10 points of fire damage.,N/A,Archery,xx00f1a0
+Exploding Steel Bolt of Ice,Bolt,10,0,5,N/A,N/A,N/A,Explodes for 10 points of frost damage to Health and Stamina.,N/A,Archery,xx00f1bb
+Exploding Steel Bolt of Shock,Bolt,10,0,5,N/A,N/A,N/A,Explodes for 10 points of shock damage to Health and half that to Magicka.,N/A,Archery,xx00f1bc
+Exploding Dwarven Bolt of Fire,Bolt,14,0,15,N/A,N/A,N/A,Explodes for 15 points of fire damage.,N/A,Archery,xx00f1b1
+Exploding Dwarven Bolt of Ice,Bolt,14,0,15,N/A,N/A,N/A,Explodes for 15 points of frost damage to Health and Stamina.,N/A,Archery,xx00f1b7
+Exploding Dwarven Bolt of Shock,Bolt,14,0,15,N/A,N/A,N/A,Explodes for 15 points of shock damage to Health and half that to Magicka,N/A,Archery,xx00f1b9

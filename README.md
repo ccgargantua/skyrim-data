@@ -1,6 +1,6 @@
-# GLECK
+# Skyrim Data
 
-Data sets for the ***The Elder Scrolls V: Skyrim*** along with some little tools that use it. The data is pulled from the Elder Scrolls Wiki The name of this project means nothing. I guess you could say it was my reaction when finding out that nobody else had put something like this together already.
+Data sets for the ***The Elder Scrolls V: Skyrim***, as well as a scraper that uses them.
 
 ---
 

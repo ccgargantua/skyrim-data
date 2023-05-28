@@ -1,16 +1,16 @@
 # Skyrim Data
 
-Data sets for the ***The Elder Scrolls V: Skyrim***, as well as a scraper that uses them.
+Data sets for the ***The Elder Scrolls V: Skyrim***, as well as a scraper that generates them.
 
 ---
 
 ### Scraper
 
-The scraper is the script that pulls the data off of the wikipedia pages and stores it into wikipedia pages. It can be found in the `data/` directory. Upon running it, it will generate or overwrite all of the csv files.
+The scraper is the script that pulls the data off of the wikipedia pages and stores it into csv files. It can be found in the `data/` directory. Upon running it, it will generate or overwrite all of the csv files.
 
 ### Datasets
 
-The data sets included are in the `data/` directory. All data is taken from the [wiki pages](https://elderscrolls.fandom.com/wiki/Category:Skyrim:_Lists).
+The data sets included are in the `data/` directory. All data is taken from the [wiki pages](https://elderscrolls.fandom.com/wiki/Category:Skyrim:_Lists) and are in the form of csv files.
 
 Here is a list of the wiki pages and an indicator for whether or not they have been scraped yet (note that not all of these will be added, as many don't have tables and some have no content at all):
 
